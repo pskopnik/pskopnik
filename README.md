@@ -2,13 +2,14 @@
 
 #### 💻 What I'm working on...
 
-During office hours I'm building software and services in the context of large-scale storage systems at Karlsruhe Institute of Technology.
-Some of that work is open-source:
+During office hours I'm building firm real-time applications at Tripleye, a 3D sensing deep-tech.
+I lead the design of our common domain layer libraries, making orchestrating and controlling multi-node systems from Python a breeze.
+And am engaged with our skilled algorithm devs to ensure our C++ data-layer framework is as robust and efficient as possible.
 
- * WebDAV server software based on Apache HTTPD for data access and transfer.
-   Most projects are open-sourced at [Helmholtz's GitLab](https://codebase.helmholtz.cloud/kit-scc-sdm/onlinestorage/httpd-webdav).
- * Tools supporting system operations:
-   * [lsdf-checksum](https://github.com/pskopnik/lsdf-checksum) computes file content checksums to verify integrity.
+Some of my work done previously in the context of large-scale storage systems at Karlsruhe Institute of Technology is open-source:
+
+ * WebDAV server software based on Apache HTTPD for data access and federated transfer, open-sourced at [Helmholtz's GitLab](https://codebase.helmholtz.cloud/kit-scc-sdm/onlinestorage/httpd-webdav).
+ * [lsdf-checksum](https://github.com/pskopnik/lsdf-checksum) computes file content checksums to verify data integrity.
 
 At other times, I'm playing with technology and tend to over-engineer software to marginally improve my life 😬.
 
